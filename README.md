@@ -2,6 +2,8 @@
 
 # Minimal Next.js Starter Template
 
+1
+
 This is a minimal [Next.js](https://nextjs.org) starter template preconfigured with [TypeScript](https://www.typescriptlang.org), [ESLint](https://eslint.org), [Prettier](https://prettier.io), and [Husky](https://typicode.github.io/husky/#/).
 
 ## Features
